@@ -10,7 +10,7 @@ Only translate dialogue text, will not modify program UI and option tabs.
 
 **This version does not work with official 1.01 update (with `pack8.pack`)**
 
-### Useage
+### Usage
 
 1. Unpack `/GameData/pack6.pack` with `filepack`.
 
