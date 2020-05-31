@@ -1,4 +1,5 @@
 # mangekyo5_Chs
+
 ### About
 
 A little tool to create Machine Translation for 美少女万華鏡5.
